@@ -1,0 +1,3 @@
+# Optional local AI image-classification model (large downloads on first run)
+transformers==4.46.3
+torch>=2.4.0
